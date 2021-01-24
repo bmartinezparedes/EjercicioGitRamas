@@ -12,5 +12,7 @@ public class Main {
 
 
         System.out.println("Rama master commit e");
+
+        System.out.println("Merge ramas commit f");
     }
 }
